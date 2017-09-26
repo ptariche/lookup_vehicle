@@ -1,0 +1,29 @@
+{
+  "name": "lookup_vehicle",
+  "version": "1.0.0",
+  "description": "Lookup a vehicle registered in the United States via a vin number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptariche/lookup_vehicle.git"
+  },
+  "keywords": [
+    "car",
+    "vehicle",
+    "lookup",
+    "vin",
+    "nhtsa"
+  ],
+  "author": "Peter A. Tariche",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ptariche/lookup_vehicle/issues"
+  },
+  "homepage": "https://github.com/ptariche/lookup_vehicle#readme",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
