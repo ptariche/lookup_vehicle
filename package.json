@@ -1,6 +1,6 @@
 {
   "name": "lookup_vehicle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lookup a vehicle registered in the United States via a vin number",
   "main": "index.js",
   "scripts": {
