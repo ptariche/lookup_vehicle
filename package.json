@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/ptariche/lookup_vehicle#readme",
   "dependencies": {
-    "axios": "^0.16.2"
+    "axios": "^0.21.1"
   }
 }
